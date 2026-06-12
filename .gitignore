@@ -1,7 +1,22 @@
+# Secrets / account recovery
+.env
+.env.*
+!.env.example
+github-recovery-codes.txt
+*recovery-codes*.txt
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+
+# Local / generated work files
 work/
+.codex/
+generated_images/
 *.tmp
 .tmp*
+*.log
 Thumbs.db
 .DS_Store
-.env
-
