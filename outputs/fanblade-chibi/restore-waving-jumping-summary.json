@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "repair": "Undid the previous row-content swap. Row 3 is waving again and row 4 is jumping again, while preserving the earlier running-left, idle-eye, and jump-scale fixes.",
+  "row_3": "waving",
+  "row_4": "jumping",
+  "github_owner": "jingxuan2007ydd-arch"
+}
+

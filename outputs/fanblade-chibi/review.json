@@ -1,0 +1,990 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames",
+  "errors": [],
+  "warnings": [
+    "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "running used extraction method stable-slots; confirm motion playback remains stable and unclipped",
+    "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+  ],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "idle used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\idle\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17257,
+          "bbox": [
+            17,
+            6,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 26
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\idle\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17121,
+          "bbox": [
+            17,
+            6,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\idle\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17121,
+          "bbox": [
+            17,
+            6,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\idle\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17146,
+          "bbox": [
+            17,
+            6,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\idle\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17150,
+          "bbox": [
+            19,
+            6,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 13
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\idle\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17088,
+          "bbox": [
+            18,
+            6,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 22
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-right used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17376,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16128,
+          "bbox": [
+            9,
+            7,
+            183,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15608,
+          "bbox": [
+            11,
+            10,
+            181,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15445,
+          "bbox": [
+            11,
+            10,
+            180,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15168,
+          "bbox": [
+            14,
+            10,
+            178,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15088,
+          "bbox": [
+            18,
+            11,
+            174,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14943,
+          "bbox": [
+            19,
+            12,
+            173,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14455,
+          "bbox": [
+            24,
+            13,
+            169,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running-left used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17376,
+          "bbox": [
+            5,
+            5,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16128,
+          "bbox": [
+            9,
+            7,
+            183,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15608,
+          "bbox": [
+            11,
+            10,
+            181,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15445,
+          "bbox": [
+            12,
+            10,
+            181,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15168,
+          "bbox": [
+            14,
+            10,
+            178,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15088,
+          "bbox": [
+            18,
+            11,
+            174,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 28
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14943,
+          "bbox": [
+            19,
+            12,
+            173,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 32
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14455,
+          "bbox": [
+            23,
+            13,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waving used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17317,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 8
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17131,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 6
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16756,
+          "bbox": [
+            13,
+            7,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 7
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17005,
+          "bbox": [
+            14,
+            6,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 16
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "jumping used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18606,
+          "bbox": [
+            5,
+            6,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18606,
+          "bbox": [
+            5,
+            3,
+            186,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 4
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19469,
+          "bbox": [
+            4,
+            0,
+            188,
+            197
+          ],
+          "edge_pixels": 19,
+          "chroma_adjacent_pixels": 5
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17716,
+          "bbox": [
+            11,
+            3,
+            181,
+            200
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 5
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17716,
+          "bbox": [
+            11,
+            6,
+            181,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 5
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "failed used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18367,
+          "bbox": [
+            6,
+            5,
+            186,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16538,
+          "bbox": [
+            15,
+            7,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16118,
+          "bbox": [
+            25,
+            11,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15199,
+          "bbox": [
+            25,
+            27,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 37
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15806,
+          "bbox": [
+            27,
+            9,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 25
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16098,
+          "bbox": [
+            22,
+            8,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 33
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16077,
+          "bbox": [
+            20,
+            8,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16066,
+          "bbox": [
+            24,
+            7,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 25
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "waiting used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15309,
+          "bbox": [
+            30,
+            7,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15282,
+          "bbox": [
+            31,
+            8,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 5
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15316,
+          "bbox": [
+            31,
+            8,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 7
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15141,
+          "bbox": [
+            31,
+            5,
+            159,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 6
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14554,
+          "bbox": [
+            30,
+            16,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15012,
+          "bbox": [
+            30,
+            10,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 11
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "running used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16228,
+          "bbox": [
+            22,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 8
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15122,
+          "bbox": [
+            31,
+            11,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 6
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17168,
+          "bbox": [
+            11,
+            8,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16346,
+          "bbox": [
+            18,
+            9,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16762,
+          "bbox": [
+            16,
+            8,
+            175,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 17
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15610,
+          "bbox": [
+            23,
+            9,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 10
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "stable-slots",
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "review used extraction method stable-slots; confirm motion playback remains stable and unclipped"
+      ],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16096,
+          "bbox": [
+            21,
+            5,
+            170,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 12
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15925,
+          "bbox": [
+            19,
+            7,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 9
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16019,
+          "bbox": [
+            18,
+            5,
+            173,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 15
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16215,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 10
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15245,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 19
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\jingx\\Documents\\Codex\\2026-06-09\\goal-create-a-pet-based-on\\work\\fanblade-chibi-run\\frames\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16239,
+          "bbox": [
+            15,
+            6,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 11
+        }
+      ]
+    }
+  ]
+}
